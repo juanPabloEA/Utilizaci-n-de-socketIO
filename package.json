@@ -1,0 +1,19 @@
+{
+  "name": "socketio.nodejs",
+  "version": "1.0.0",
+  "description": "chat con socketIO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanPabloEA/Utilizaci-n-de-socketIO.git"
+  },
+  "author": "Juan Pablpo Espinoza Alvial",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanPabloEA/Utilizaci-n-de-socketIO/issues"
+  },
+  "homepage": "https://github.com/juanPabloEA/Utilizaci-n-de-socketIO#readme"
+}
